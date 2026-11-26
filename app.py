@@ -20,6 +20,12 @@ st.set_page_config(
 
 CUSTOM_CSS = """
 <style>
+  html, body, .stApp, .stApp h1, .stApp h2, .stApp h3, .stApp h4,
+  .stApp p, .stApp label, .stApp input, .stApp button, .stApp textarea,
+  [data-testid="stSidebar"], [data-testid="stMarkdownContainer"],
+  [data-testid="stTabs"] button, .dss-card, .dss-badge {
+    font-family: "Times New Roman", Times, serif !important;
+  }
   .dss-grid {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -178,7 +184,7 @@ def render_fixed_scatter(squad_df: pd.DataFrame, show_source: bool = False) -> N
             tooltip=tooltips,
         )
     )
-    chart = (diag_line + points).properties(height=420)
+    chart = (diag_line + points).properties(height=420).configure(font="Times New Roman")
     st.altair_chart(chart, use_container_width=True)
 
 
@@ -516,6 +522,7 @@ def main():
                     alt.value("#e74c3c"),
                 ),
             )
+            .configure(font="Times New Roman")
         )
         st.altair_chart(bar, use_container_width=True)
         st.caption(f"Trained on 80% / Evaluated on {m['test_samples']} EPL players (20% test set), alpha={model_info['alpha']}.")
