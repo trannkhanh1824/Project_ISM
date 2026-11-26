@@ -1,0 +1,624 @@
+﻿player_id,short_name,long_name,club_name,player_positions,club_position,age,overall,potential,wage_eur,value_eur,international_reputation,club_contract_valid_until_year,nationality_name
+239085,E. Haaland,Erling Braut Haaland,Manchester City,ST,ST,22,91,94,340000.0,185000000.0,5,2027,Norway
+192985,K. De Bruyne,Kevin De Bruyne,Manchester City,"CM, CAM",SUB,32,91,91,350000.0,103000000.0,5,2025,Belgium
+212831,Alisson,Alisson Ramsés Becker,Liverpool,GK,GK,30,89,90,180000.0,77500000.0,5,2027,Brazil
+231866,Rodri,Rodrigo Hernández Cascante,Manchester City,"CDM, CM",RCM,27,89,90,250000.0,105500000.0,4,2027,Spain
+239818,Rúben Dias,Rúben dos Santos Gato Alves Dias,Manchester City,CB,LCB,26,89,90,250000.0,106500000.0,4,2027,Portugal
+200145,Casemiro,Carlos Henrique Venancio Casimiro,Manchester United,CDM,RCM,31,89,89,240000.0,72000000.0,4,2026,Brazil
+203376,V. van Dijk,Virgil van Dijk,Liverpool,CB,LCB,31,89,89,220000.0,70500000.0,4,2025,Netherlands
+209331,M. Salah,Mohamed Salah Ghaly,Liverpool,RW,RW,31,89,89,260000.0,85500000.0,5,2025,Egypt
+210257,Ederson,Ederson Santana de Moraes,Manchester City,GK,GK,29,88,89,210000.0,70000000.0,3,2026,Brazil
+212198,Bruno Fernandes,Bruno Miguel Borges Fernandes,Manchester United,"CAM, CM",CAM,28,88,88,260000.0,92000000.0,4,2026,Portugal
+218667,Bernardo Silva,Bernardo Mota Veiga de Carvalho e Silva,Manchester City,"CM, RW",SUB,28,88,88,270000.0,91500000.0,3,2026,Portugal
+222665,M. Ødegaard,Martin Ødegaard,Arsenal,"CAM, CM",RCM,24,87,90,170000.0,109000000.0,4,2026,Norway
+200104,H. Son,손흥민 孙兴慜,Tottenham Hotspur,LW,LW,30,87,87,170000.0,77000000.0,4,2025,Korea Republic
+246669,B. Saka,Bukayo Saka,Arsenal,"RW, RM",RW,21,86,90,150000.0,99000000.0,2,2027,England
+241096,S. Tonali,Sandro Tonali,Newcastle United,"CDM, CM",RCM,23,86,89,140000.0,84000000.0,3,2028,Italy
+231281,T. Alexander-Arnold,Trent Alexander-Arnold,Liverpool,RB,RB,24,86,88,140000.0,81000000.0,3,2025,England
+232411,C. Nkunku,Christopher Nkunku,Chelsea,"CF, CAM, ST",RES,25,86,88,185000.0,86500000.0,3,2029,France
+216267,A. Robertson,Andrew Robertson,Liverpool,LB,LB,29,86,86,170000.0,59500000.0,3,2026,Scotland
+237692,P. Foden,Philip Foden,Manchester City,"LW, RW",RW,23,85,90,180000.0,81500000.0,3,2027,England
+231677,M. Rashford,Marcus Rashford,Manchester United,"LW, LM, ST",LW,25,85,88,185000.0,71500000.0,3,2028,England
+224458,Diogo Jota,Diogo José Teixeira da Silva,Liverpool,"CF, LW",SUB,26,85,87,180000.0,67500000.0,2,2027,Portugal
+234378,D. Rice,Declan Rice,Arsenal,"CDM, CM",CDM,24,85,87,130000.0,63000000.0,3,2028,England
+203574,J. Stones,John Stones,Manchester City,"CB, RB",RCB,29,85,86,180000.0,49500000.0,2,2026,England
+226753,A. Onana,André Onana,Manchester United,GK,GK,27,85,86,130000.0,46000000.0,3,2028,Cameroon
+186345,K. Trippier,Kieran Trippier,Newcastle United,RB,RB,32,85,85,150000.0,37500000.0,2,2025,England
+201535,R. Varane,Raphaël Varane,Manchester United,CB,RES,30,85,85,160000.0,44000000.0,3,2025,France
+202811,E. Martínez,Damián Emiliano Martínez,Aston Villa,GK,GK,30,85,85,100000.0,36000000.0,3,2027,Argentina
+206517,J. Grealish,Jack Grealish,Manchester City,"LW, LM",LW,27,85,85,200000.0,57500000.0,3,2027,England
+209989,T. Partey,Thomas Partey,Arsenal,"CDM, CM",SUB,30,85,85,150000.0,45000000.0,2,2024,Ghana
+241852,M. Diaby,Moussa Diaby,Aston Villa,"RM, LM",RS,23,84,88,105000.0,60500000.0,3,2028,France
+251566,Gabriel Martinelli,Gabriel Teodoro Martinelli Silva,Arsenal,"LW, LM",LW,22,84,88,145000.0,61500000.0,2,2027,Brazil
+233934,A. Ramsdale,Aaron Ramsdale,Arsenal,GK,GK,25,84,87,105000.0,43000000.0,2,2026,England
+239301,L. Martínez,Lisandro Martínez,Manchester United,CB,LCB,25,84,87,140000.0,49500000.0,2,2027,Argentina
+247851,Bruno Guimarães,Bruno Guimarães Rodriguez Moura,Newcastle United,"CM, CDM",CM,25,84,87,145000.0,55500000.0,2,2026,Brazil
+232580,Gabriel,Gabriel dos Santos Magalhães,Arsenal,CB,LCB,25,84,86,130000.0,47000000.0,2,2027,Brazil
+238074,R. James,Reece James,Chelsea,"RB, RWB",RES,23,84,86,120000.0,50500000.0,2,2028,England
+213648,P. Højbjerg,Pierre-Emile Kordt Højbjerg,Tottenham Hotspur,"CDM, CM",SUB,27,84,85,110000.0,43000000.0,2,2025,Denmark
+220697,J. Maddison,James Maddison,Tottenham Hotspur,"CAM, RM, CM",LCM,26,84,85,120000.0,49500000.0,2,2028,England
+230666,Gabriel Jesus,Gabriel Fernando de Jesus,Arsenal,"ST, RW",SUB,26,84,85,165000.0,50500000.0,2,2027,Brazil
+241084,L. Díaz,Luis Fernando Díaz Marulanda,Liverpool,"LW, LM",LW,26,84,85,165000.0,49500000.0,2,2027,Colombia
+164240,Thiago Silva,Thiago Emiliano da Silva,Chelsea,CB,LCB,38,84,84,100000.0,7500000.0,4,2024,Brazil
+188377,K. Walker,Kyle Walker,Manchester City,RB,RB,33,84,84,155000.0,22000000.0,3,2024,England
+189509,Thiago,Thiago Alcântara do Nascimento,Liverpool,CM,SUB,32,84,84,150000.0,33000000.0,3,2024,Spain
+203841,N. Pope,Nick Pope,Newcastle United,GK,GK,31,84,84,110000.0,22500000.0,2,2026,England
+243715,W. Saliba,William Alain André Gabriel Saliba,Arsenal,CB,RCB,22,83,89,105000.0,53000000.0,2,2024,France
+247090,E. Fernández,Enzo Jeremías Fernández,Chelsea,"CM, CDM",CAM,22,83,89,120000.0,58000000.0,3,2031,Argentina
+242516,C. Gakpo,Cody Mathès Gakpo,Liverpool,"CF, LW",CF,24,83,88,130000.0,55500000.0,2,2028,Netherlands
+251809,S. Botman,Sven Botman,Newcastle United,CB,LCB,23,83,87,105000.0,47000000.0,2,2027,Netherlands
+241464,Pau Torres,Pau Francisco Torres,Aston Villa,CB,LCB,26,83,86,100000.0,42000000.0,3,2028,Spain
+229391,Palhinha,João Maria Lobo Alves Palhinha Gonçalves,Fulham,"CDM, CM",CDM,27,83,84,100000.0,37000000.0,2,2027,Portugal
+167948,H. Lloris,Hugo Lloris,Tottenham Hotspur,GK,RES,36,83,83,54000.0,4000000.0,4,2024,France
+190460,C. Eriksen,Christian Dannemann Eriksen,Manchester United,"CM, CDM",LCM,31,83,83,145000.0,30000000.0,3,2025,Denmark
+202652,R. Sterling,Raheem Sterling,Chelsea,"LW, RW, ST",RM,28,83,83,155000.0,36500000.0,4,2027,England
+205498,Jorginho,Luiz Frello Filho Jorge,Arsenal,"CDM, CM",SUB,31,83,83,125000.0,25500000.0,2,2024,Italy
+205988,L. Shaw,Luke Shaw,Manchester United,"LB, CB",RES,27,83,83,135000.0,35000000.0,2,2027,England
+251517,J. Gvardiol,Joško Gvardiol,Manchester City,"CB, LB",SUB,21,82,88,95000.0,44500000.0,3,2028,Croatia
+253072,D. Núñez,Darwin Gabriel Núñez Ribeiro,Liverpool,"ST, LW",SUB,24,82,88,120000.0,48500000.0,3,2028,Uruguay
+235790,K. Havertz,Kai Lukas Havertz,Arsenal,"CAM, RW, ST",LCM,24,82,87,110000.0,46000000.0,3,2028,Germany
+232488,C. Romero,Cristian Gabriel Romero,Tottenham Hotspur,CB,RCB,25,82,86,89000.0,38000000.0,3,2027,Argentina
+233049,J. Sancho,Jadon Sancho,Manchester United,"LW, LM",SUB,23,82,86,130000.0,43500000.0,3,2026,England
+236772,D. Szoboszlai,Dominik Szoboszlai,Liverpool,CAM,RCM,22,82,86,110000.0,44500000.0,2,2028,Hungary
+227535,R. Bentancur,Rodrigo Bentancur Colmán,Tottenham Hotspur,"CM, CDM",SUB,26,82,85,100000.0,39500000.0,2,2026,Uruguay
+240091,G. Vicario,Guglielmo Vicario,Tottenham Hotspur,GK,GK,26,82,85,76000.0,30500000.0,2,2028,Italy
+204935,J. Pickford,Jordan Pickford,Everton,GK,GK,29,82,84,45000.0,25000000.0,3,2027,England
+216393,Y. Tielemans,Youri Tielemans,Aston Villa,"CM, CDM",SUB,26,82,84,100000.0,37500000.0,2,2027,Belgium
+239837,A. Mac Allister,Alexis Mac Allister,Liverpool,"CM, CAM, CDM",LCM,24,82,84,110000.0,39500000.0,3,2028,Argentina
+223334,Joelinton,Joelinton Cassio Apolinário de Lira,Newcastle United,"CM, LW",LCM,26,82,83,125000.0,35500000.0,2,2024,Brazil
+229237,M. Akanji,Manuel Obafemi Akanji,Manchester City,CB,SUB,27,82,83,130000.0,30500000.0,2,2027,Switzerland
+196978,C. Wilson,Callum Wilson,Newcastle United,ST,SUB,31,82,82,135000.0,25500000.0,2,2024,England
+207410,M. Kovačić,Mateo Kovačić,Manchester City,"CM, CDM",LCM,29,82,82,150000.0,29500000.0,3,2027,Croatia
+210047,F. Schär,Fabian Lukas Schär,Newcastle United,CB,RCB,31,82,82,115000.0,21000000.0,2,2024,Switzerland
+211738,M. Flekken,Mark Flekken,Brentford,GK,GK,30,82,82,56000.0,20500000.0,1,2027,Netherlands
+237678,I. Konaté,Ibrahima Konaté,Liverpool,CB,RCB,24,81,87,90000.0,37000000.0,2,2026,France
+255475,Antony,Antony Matheus dos Santos,Manchester United,"RW, RM",RW,23,81,87,120000.0,40500000.0,3,2027,Brazil
+233731,A. Isak,Alexander Isak,Newcastle United,"ST, LW",ST,23,81,86,110000.0,39500000.0,2,2028,Sweden
+247394,D. Kulusevski,Dejan Kulusevski,Tottenham Hotspur,RW,RW,23,81,85,90000.0,37000000.0,2,2028,Sweden
+229984,B. Chilwell,Ben Chilwell,Chelsea,"LB, LWB",LM,26,81,84,105000.0,31000000.0,2,2027,England
+233064,M. Mount,Mason Mount,Manchester United,"CAM, RW, CM",RES,24,81,84,110000.0,35000000.0,3,2028,England
+233927,Lucas Paquetá,Lucas Tolentino Coelho de Lima,West Ham United,"CAM, CM",CAM,25,81,84,78000.0,34000000.0,2,2027,Brazil
+235173,I. Sangaré,Ibrahim Sangaré,Nottingham Forest,"CDM, CM",SUB,25,81,84,70000.0,31000000.0,3,2028,Côte d'Ivoire
+235844,E. Álvarez,Edson Omar Álvarez Velázquez,West Ham United,"CDM, CB",LDM,25,81,84,71000.0,31000000.0,3,2025,Mexico
+243576,Pedro Porro,Pedro Antonio Porro Sauceda,Tottenham Hotspur,"RB, RWB",RB,23,81,84,74000.0,32500000.0,2,2028,Spain
+211990,O. Vlachodimos,Odisseas Vlachodimos,Nottingham Forest,GK,SUB,29,81,83,63000.0,21500000.0,1,2027,Greece
+251892,Beto,Norberto Bercique Gomes Betuncal,Everton,ST,ST,25,81,83,56000.0,33000000.0,1,2027,Portugal
+208920,N. Aké,Nathan Aké,Manchester City,"CB, LB",LB,28,81,82,125000.0,24500000.0,3,2027,Netherlands
+226226,G. Lo Celso,Giovani Lo Celso,Tottenham Hotspur,"CAM, ST",SUB,27,81,82,95000.0,29500000.0,2,2025,Argentina
+236276,A. Danjuma,Arnaut Danjuma Adam Groeneveld,Everton,"ST, LM",LM,26,81,82,45000.0,31000000.0,1,2024,Netherlands
+192563,B. Leno,Bernd Leno,Fulham,GK,GK,31,81,81,70000.0,13500000.0,3,2025,Germany
+199915,L. Dunk,Lewis Dunk,Brighton & Hove Albion,CB,LCB,31,81,81,86000.0,17500000.0,2,2026,England
+207421,L. Trossard,Leandro Trossard,Arsenal,"CF, LW",SUB,28,81,81,130000.0,26500000.0,2,2027,Belgium
+219693,Diego Carlos,Diego Carlos Santos Silva,Aston Villa,CB,SUB,30,81,81,86000.0,21000000.0,2,2026,Brazil
+230977,M. Almirón,Miguel Ángel Almirón Rejala,Newcastle United,"RW, RM",RW,29,81,81,130000.0,25500000.0,2,2026,Paraguay
+246191,J. Álvarez,Julián Álvarez,Manchester City,"ST, CF, CAM",CAM,23,80,86,115000.0,33500000.0,2,2028,Argentina
+236987,B. Kamara,Boubacar Bernard Kamara,Aston Villa,"CDM, CM",LDM,23,80,85,69000.0,29000000.0,2,2027,France
+256079,M. Caicedo,Moisés Isaac Caicedo Corozo,Chelsea,"CDM, CM",LDM,21,80,85,71000.0,29500000.0,2,2031,Ecuador
+234574,Diogo Dalot,José Diogo Dalot Teixeira,Manchester United,RB,LB,24,80,84,90000.0,28000000.0,2,2028,Portugal
+238067,N. Zaniolo,Nicolò Zaniolo,Aston Villa,"RM, CF",SUB,23,80,84,43000.0,30000000.0,2,2024,Italy
+224158,S. Amrabat,Sofyan Amrabat,Manchester United,"CDM, CM",SUB,26,80,83,56000.0,25000000.0,1,2024,Morocco
+229880,A. Wan-Bissaka,Aaron Wan-Bissaka,Manchester United,RB,RB,25,80,83,100000.0,25500000.0,2,2024,England
+231936,B. White,Benjamin White,Arsenal,"RB, CB",RB,25,80,83,95000.0,25500000.0,2,2026,England
+231943,Richarlison,Richarlison de Andrade,Tottenham Hotspur,"ST, LW, RW",ST,26,80,83,95000.0,28000000.0,3,2027,Brazil
+234742,H. Barnes,Harvey Lewis Barnes,Newcastle United,"LW, LM",SUB,25,80,83,115000.0,28000000.0,2,2028,England
+220901,David Raya,David Raya Martin,Arsenal,GK,SUB,27,80,82,48000.0,19500000.0,1,2024,Spain
+227813,O. Zinchenko,Oleksandr Zinchenko,Arsenal,LB,LB,26,80,82,100000.0,24000000.0,2,2027,Ukraine
+237942,P. Estupiñán,Pervis Josué Estupiñán Tenorio,Brighton & Hove Albion,LB,LB,25,80,82,77000.0,24500000.0,1,2027,Ecuador
+211300,A. Martial,Anthony Martial,Manchester United,ST,ST,27,80,81,125000.0,24500000.0,3,2024,France
+221660,V. Lindelöf,Victor Jörgen Nilsson Lindelöf,Manchester United,CB,RCB,28,80,81,110000.0,20000000.0,2,2024,Sweden
+221697,O. Watkins,Ollie Watkins,Aston Villa,ST,LS,27,80,81,95000.0,24500000.0,2,2025,England
+226162,E. Buendía,Emiliano Buendía,Aston Villa,"RM, CAM",RES,26,80,81,88000.0,25000000.0,2,2026,Argentina
+255565,K. Mitoma,三笘 薫,Brighton & Hove Albion,LM,LM,26,80,81,88000.0,25000000.0,3,2025,Japan
+197061,J. Matip,Joël Andre Job Matip,Liverpool,CB,SUB,31,80,80,100000.0,14500000.0,2,2024,Cameroon
+217036,Álex Moreno,Alexandre Moreno Lopera,Aston Villa,LB,RES,30,80,80,81000.0,18000000.0,1,2026,Spain
+232487,W. Endo,遠藤 航,Liverpool,"CM, CDM",CDM,30,80,80,110000.0,20000000.0,2,2027,Japan
+246104,R. Gravenberch,Ryan Jiro Gravenberch,Liverpool,CM,SUB,21,79,87,76000.0,39500000.0,1,2028,Netherlands
+245155,M. Kudus,Mohammed Kudus,West Ham United,"RW, CAM",SUB,22,79,86,69000.0,35500000.0,3,2028,Ghana
+248695,W. Fofana,Wesley Fofana,Chelsea,CB,RES,22,79,86,80000.0,33000000.0,1,2028,France
+251805,J. Timber,Jurriën David Norman Timber,Arsenal,"CB, RB",SUB,22,79,86,80000.0,33000000.0,3,2028,Netherlands
+225100,J. Gomez,Joe Gomez,Liverpool,"CB, RB",SUB,26,79,84,95000.0,23000000.0,2,2027,England
+229942,A. Disasi,Axel Arthur Disasi,Chelsea,CB,RCB,25,79,84,89000.0,23000000.0,2,2029,France
+235794,E. Eze,Eberechi Eze,Crystal Palace,"CAM, CM, LW",CAM,25,79,84,45000.0,26000000.0,1,2025,England
+253124,Matheus Nunes,Matheus Luiz Nunes,Manchester City,"CM, LM",SUB,24,79,84,100000.0,26500000.0,1,2028,Portugal
+236499,Douglas Luiz,Douglas Luiz Soares de Paulo,Aston Villa,"CDM, CM",RDM,25,79,83,73000.0,22000000.0,2,2026,Brazil
+239231,Cucurella,Marc Cucurella Saseta,Chelsea,"LB, CB, LWB",SUB,24,79,83,80000.0,23500000.0,2,2028,Spain
+224081,K. Phillips,Kalvin Phillips,Manchester City,"CDM, CM",SUB,27,79,82,105000.0,20000000.0,2,2028,England
+227678,E. Konsa,Ezri Konsa Ngoyo,Aston Villa,CB,RCB,25,79,82,73000.0,20500000.0,2,2026,England
+228789,Robert Sánchez,Robert Lynch Sánchez,Chelsea,GK,GK,25,79,82,71000.0,18000000.0,1,2030,Spain
+233306,D. Henderson,Dean Henderson,Crystal Palace,GK,SUB,26,79,82,35000.0,17500000.0,2,2028,England
+236480,Y. Bissouma,Yves Bissouma,Tottenham Hotspur,"CDM, CM",CDM,26,79,82,76000.0,20500000.0,2,2026,Mali
+237238,S. McTominay,Scott McTominay,Manchester United,"CDM, CM",SUB,26,79,82,100000.0,20500000.0,2,2025,Scotland
+204311,K. Zouma,Kurt Happy Zouma,West Ham United,CB,RCB,28,79,81,69000.0,17500000.0,2,2025,France
+227174,M. Cash,Matty Cash,Aston Villa,"RB, RWB",RB,25,79,81,73000.0,20000000.0,2,2027,Poland
+231340,G. Montiel,Gonzalo Ariel Montiel,Nottingham Forest,"RB, RWB",SUB,26,79,81,29000.0,20000000.0,1,2024,Argentina
+244749,N. Aguerd,Nayef Aguerd,West Ham United,CB,LCB,27,79,81,66000.0,18500000.0,2,2027,Morocco
+224371,J. Bowen,Jarrod Bowen,West Ham United,"RM, RW",RM,26,79,80,72000.0,20500000.0,2,2025,England
+229906,L. Bailey,Leon Bailey Butler,Aston Villa,"RM, ST, RW",RM,25,79,80,80000.0,21000000.0,3,2025,Jamaica
+236792,T. Souček,Tomáš Souček,West Ham United,"CDM, CM",SUB,28,79,80,69000.0,17000000.0,2,2028,Czech Republic
+164835,Ł. Fabiański,Łukasz Fabiański,West Ham United,GK,SUB,38,79,79,35000.0,1900000.0,2,2024,Poland
+181458,I. Perišić,Ivan Perišić,Tottenham Hotspur,"LW, LWB",SUB,34,79,79,90000.0,8000000.0,3,2024,Croatia
+189682,B. Mee,Ben Mee,Brentford,CB,LCB,33,79,79,56000.0,8500000.0,2,2024,England
+198032,D. Burn,Dan Burn,Newcastle United,"CB, LB",LB,31,79,79,95000.0,12000000.0,2,2025,England
+200159,S. Ortega,Stefan Ortega Moreno,Manchester City,GK,SUB,30,79,79,86000.0,11500000.0,1,2025,Germany
+200458,L. Digne,Lucas Digne,Aston Villa,LB,LB,29,79,79,80000.0,15500000.0,2,2026,France
+202695,J. Tarkowski,James Tarkowski,Everton,CB,RCB,30,79,79,43000.0,14500000.0,1,2026,England
+203263,H. Maguire,Harry Maguire,Manchester United,CB,SUB,30,79,79,100000.0,14500000.0,3,2024,England
+206594,S. March,Solomon March,Brighton & Hove Albion,RM,RM,28,79,79,87000.0,17500000.0,1,2026,England
+210881,J. McGinn,John McGinn,Aston Villa,"CM, RM, CDM",LM,28,79,79,87000.0,17500000.0,2,2027,Scotland
+212419,T. Mings,Tyrone Mings,Aston Villa,CB,RES,30,79,79,76000.0,14500000.0,2,2026,England
+212442,José Sá,José Pedro Malheiro de Sá,Wolverhampton Wanderers,GK,GK,30,79,79,52000.0,11500000.0,2,2026,Portugal
+238717,E. Pinnock,Ethan Rupert Pinnock,Brentford,CB,RCB,30,79,79,56000.0,14500000.0,1,2027,Jamaica
+253004,Ansu Fati,Anssumane Fati,Brighton & Hove Albion,"LW, ST",SUB,20,78,88,95000.0,31000000.0,3,2024,Spain
+241159,M. Guéhi,Addji Keaninkin Marc-Israel Guéhi,Crystal Palace,CB,LCB,22,78,85,34000.0,26500000.0,2,2026,England
+242578,B. Badiashile,Benoît Badiashile Mukinayi,Chelsea,CB,SUB,22,78,85,73000.0,26500000.0,2,2030,France
+259197,N. Jackson,Nicolas Jackson,Chelsea,ST,ST,22,78,85,89000.0,29000000.0,1,2027,Senegal
+264453,M. van de Ven,Mickey van de Ven,Tottenham Hotspur,"CB, LB",LCB,22,78,85,59000.0,26500000.0,1,2029,Netherlands
+240273,E. Smith Rowe,Emile Smith Rowe,Arsenal,"LW, CAM",SUB,22,78,84,89000.0,22500000.0,1,2026,England
+247827,M. Olise,Michael Olise,Crystal Palace,RW,RES,21,78,84,35000.0,22500000.0,1,2027,France
+232938,T. Tomiyasu,冨安 健洋,Arsenal,"RB, LB",SUB,24,78,83,73000.0,20000000.0,1,2026,Japan
+237329,J. Willock,Joseph Willock,Newcastle United,CM,SUB,23,78,83,81000.0,21000000.0,1,2027,England
+238041,T. Malacia,Tyrell Malacia,Manchester United,LB,RES,23,78,83,78000.0,20000000.0,1,2026,Netherlands
+238216,C. Gallagher,Conor Gallagher,Chelsea,"CM, CDM",RDM,23,78,83,81000.0,21000000.0,2,2025,England
+240243,Matheus Cunha,Matheus Santos Carneiro Da Cunha,Wolverhampton Wanderers,"ST, CAM, LM",CAM,24,78,83,61000.0,21500000.0,2,2027,Brazil
+242619,C. Doucouré,Cheick Oumar Doucouré,Crystal Palace,"CDM, CM",RDM,23,78,83,34000.0,19500000.0,1,2026,Mali
+246923,J. Ramsey,Jacob Ramsey,Aston Villa,"LM, CM",RES,22,78,83,66000.0,21500000.0,1,2027,England
+233500,L. Sinisterra,Luis Fernando Sinisterra Lucumí,AFC Bournemouth,"LM, RM, CAM",SUB,24,78,82,41000.0,20000000.0,1,2024,Colombia
+242000,K. Mavropanos,Konstantinos Mavropanos,West Ham United,"CB, RB",SUB,25,78,82,57000.0,17500000.0,2,2028,Greece
+253150,M. Trésor,Mike Trésor Ndayishimiye,Burnley,"LM, CAM",SUB,24,78,82,17000.0,20000000.0,1,2024,Belgium
+231633,I. Diop,Issa Diop,Fulham,CB,RCB,26,78,81,69000.0,16500000.0,2,2027,France
+237161,S. Longstaff,Sean Longstaff,Newcastle United,CM,SUB,25,78,81,89000.0,18500000.0,1,2025,England
+243014,B. Mbeumo,Bryan Mbeumo,Brentford,"RW, ST",RW,23,78,81,53000.0,19000000.0,1,2026,Cameroon
+245279,Reguilón,Sergio Reguilón Rodríguez,Manchester United,"LB, LWB",SUB,26,78,81,69000.0,17000000.0,1,2024,Spain
+224221,J. Andersen,Joachim Andersen,Crystal Palace,CB,RCB,27,78,80,39000.0,15000000.0,2,2026,Denmark
+232999,T. Adams,Tyler Shaan Adams,AFC Bournemouth,"CDM, CM",SUB,24,78,80,40000.0,16500000.0,3,2028,United States
+247204,Emerson Royal,Emerson Aparecido Leite de Souza Junior,Tottenham Hotspur,"RB, RWB",SUB,24,78,80,59000.0,17000000.0,2,2026,Brazil
+193105,A. Areola,Alphonse Areola,West Ham United,GK,GK,30,78,79,49000.0,10500000.0,2,2027,France
+207616,A. Webster,Adam Webster,Brighton & Hove Albion,CB,RCB,28,78,79,72000.0,13500000.0,1,2026,England
+224494,R. Henry,Rico Henry,Brentford,"LB, LWB",LB,25,78,79,48000.0,15500000.0,1,2026,England
+190717,M. Antonio,Michail Antonio,West Ham United,ST,ST,33,78,78,71000.0,9000000.0,2,2024,Jamaica
+190765,P. Groß,Pascal Groß,Brighton & Hove Albion,"CM, CDM, RB",RDM,32,78,78,76000.0,11000000.0,2,2025,Germany
+194404,Neto,Norberto Murara Neto,AFC Bournemouth,GK,GK,33,78,78,37000.0,4600000.0,2,2026,Brazil
+197853,S. Aurier,Serge Alain Stéphane Aurier,Nottingham Forest,"RB, RWB",RWB,30,78,78,58000.0,12000000.0,2,2024,Côte d'Ivoire
+198950,Pablo Sarabia,Pablo Sarabia García,Wolverhampton Wanderers,"RM, CAM",RM,31,78,78,64000.0,11500000.0,2,2025,Spain
+205569,J. Ward-Prowse,James Ward-Prowse,West Ham United,CM,RDM,28,78,78,68000.0,14000000.0,2,2027,England
+207863,Felipe,Felipe Augusto de Almeida Monteiro,Nottingham Forest,CB,RES,34,78,78,58000.0,4600000.0,3,2024,Brazil
+208004,J. Veltman,Joël Ivo Veltman,Brighton & Hove Albion,"RB, CB",RB,31,78,78,69000.0,10000000.0,2,2025,Netherlands
+212811,M. Lemina,Mario René Junior Lemina,Wolverhampton Wanderers,"CDM, CM",LCM,29,78,78,61000.0,12000000.0,2,2025,Gabon
+218339,M. Dahoud,Mahmoud Dahoud,Brighton & Hove Albion,"CM, CDM",LDM,27,78,78,76000.0,15000000.0,2,2027,Germany
+220407,M. Dúbravka,Martin Dúbravka,Newcastle United,GK,SUB,34,78,78,69000.0,2400000.0,2,2025,Slovakia
+220621,S. Benrahma,Mohamed Saïd Benrahma,West Ham United,"LM, CAM",LM,27,78,78,66000.0,15000000.0,2,2026,Algeria
+227928,Nélson Semedo,Nélson Cabral Semedo,Wolverhampton Wanderers,"RB, RWB",RB,29,78,78,61000.0,12500000.0,2,2025,Portugal
+244470,V. Coufal,Vladimír Coufal,West Ham United,RB,RB,30,78,78,60000.0,12000000.0,2,2024,Czech Republic
+259583,D. Udogie,Iyenoma Destiny Udogie,Tottenham Hotspur,"LB, LM",LB,20,77,86,46000.0,22000000.0,1,2027,Italy
+246174,H. Elliott,Harvey Elliott,Liverpool,"CAM, CM, RW",SUB,20,77,85,65000.0,23000000.0,1,2027,England
+246420,J. Doku,Jérémy Doku,Manchester City,"RM, RW",SUB,21,77,85,73000.0,23500000.0,3,2028,Belgium
+254796,N. Madueke,Chukwunonso Tristan Madueke,Chelsea,"RW, RM",SUB,21,77,85,72000.0,23500000.0,1,2030,England
+236015,M. Gibbs-White,Morgan Anthony Gibbs-White,Nottingham Forest,"CAM, CF, LW",LW,23,77,83,52000.0,16500000.0,1,2027,England
+237819,N. Domínguez,Nicolás Martín Domínguez,Nottingham Forest,"CDM, CM",SUB,25,77,83,52000.0,15000000.0,1,2028,Argentina
+242434,C. Jones,Curtis Jones,Liverpool,CM,SUB,22,77,83,76000.0,17000000.0,1,2027,England
+246785,Bryan Gil,Bryan Gil Salvatierra,Tottenham Hotspur,"LW, LM",SUB,22,77,83,68000.0,17000000.0,1,2026,Spain
+256958,Fábio Vieira,Fábio Daniel Ferreira Vieira,Arsenal,"CAM, CM",SUB,23,77,83,76000.0,16500000.0,1,2027,Portugal
+222104,T. Adarabioyo,Oluwatosin Adarabioyo,Fulham,CB,SUB,25,77,82,62000.0,14000000.0,1,2024,England
+230918,T. Chalobah,Trevoh Chalobah,Chelsea,"CB, RB, CDM",SUB,23,77,82,68000.0,14500000.0,1,2026,England
+236920,J. Kluivert,Justin Kluivert,AFC Bournemouth,"RM, LM",LM,24,77,82,41000.0,16000000.0,1,2028,Netherlands
+237658,S. Bueno,Santiago Ignacio Bueno Sciutto,Wolverhampton Wanderers,CB,SUB,24,77,82,47000.0,14500000.0,1,2028,Uruguay
+241042,O. Skipp,Oliver Skipp,Tottenham Hotspur,"CDM, CM",SUB,22,77,82,56000.0,15000000.0,1,2027,England
+246791,M. Solomon,Manor Solomon,Tottenham Hotspur,"LW, RW",SUB,23,77,82,68000.0,16000000.0,1,2028,Israel
+238616,Pedro Neto,Pedro Lomba Neto,Wolverhampton Wanderers,"LM, RW, ST",LM,23,77,81,52000.0,15000000.0,1,2027,Portugal
+221363,D. van de Beek,Donny van de Beek,Manchester United,"CM, CAM, CDM",SUB,26,77,80,95000.0,13500000.0,3,2025,Netherlands
+221479,D. Calvert-Lewin,Dominic Calvert-Lewin,Everton,ST,SUB,26,77,80,44000.0,14000000.0,2,2025,England
+230978,T. Awoniyi,Taiwo Michael Awoniyi,Nottingham Forest,ST,ST,25,77,80,63000.0,14000000.0,1,2027,Nigeria
+220440,C. Lenglet,Clément Nicolas Laurent Lenglet,Aston Villa,CB,SUB,28,77,79,105000.0,10500000.0,2,2024,France
+225859,M. Niakhaté,Moussa Niakhaté,Nottingham Forest,CB,SUB,27,77,79,55000.0,11000000.0,2,2025,Senegal
+233267,M. Turner,Matthew Charles Turner,Nottingham Forest,GK,GK,29,77,79,47000.0,8500000.0,1,2027,United States
+239901,S. Kalajdžić,Saša Kalajdžić,Wolverhampton Wanderers,ST,SUB,25,77,79,63000.0,13500000.0,2,2027,Austria
+208450,Andreas Pereira,Andreas Hugo Hoelgebaum Pereira,Fulham,CAM,LCM,27,77,78,71000.0,12000000.0,1,2026,Brazil
+220714,P. Billing,Philip Billing,AFC Bournemouth,"CM, CAM",LDM,27,77,78,47000.0,12000000.0,1,2027,Denmark
+222501,T. Castagne,Timothy Castagne,Fulham,"RB, LB, RW",SUB,27,77,78,65000.0,11000000.0,1,2027,Belgium
+232223,K. Tsimikas,Konstantinos Tsimikas,Liverpool,LB,SUB,27,77,78,80000.0,11000000.0,1,2025,Greece
+236699,S. Lukić,Saša Lukić,Fulham,"CM, CDM",SUB,26,77,78,71000.0,12500000.0,1,2027,Serbia
+138412,J. Milner,James Philip Milner,Brighton & Hove Albion,"CM, RB",SUB,37,77,77,52000.0,3300000.0,2,2024,England
+180403,Willian,Willian Borges da Silva,Fulham,"LM, RM",SUB,34,77,77,71000.0,4900000.0,3,2024,Brazil
+189615,A. Cresswell,Aaron Cresswell,West Ham United,"LB, CB",SUB,33,77,77,56000.0,5500000.0,2,2024,England
+193474,I. Gueye,Idrissa Gana Gueye,Everton,"CDM, CM",CDM,33,77,77,37000.0,5000000.0,2,2024,Senegal
+194806,C. Dawson,Craig Dawson,Wolverhampton Wanderers,CB,RCB,33,77,77,55000.0,5000000.0,2,2025,England
+195859,D. Ings,Daniel William John Ings,West Ham United,ST,SUB,30,77,77,67000.0,10500000.0,1,2025,England
+198719,N. Redmond,Nathan Redmond,Burnley,"RM, LM, ST",SUB,29,77,77,49000.0,10500000.0,2,2025,England
+202335,E. Dier,Eric Dier,Tottenham Hotspur,CB,RES,29,77,77,68000.0,9000000.0,2,2024,England
+205923,B. Davies,Benjamin Thomas Davies,Tottenham Hotspur,"CB, LB, LWB",SUB,30,77,77,65000.0,8500000.0,2,2025,Wales
+207599,M. Keane,Michael Keane,Everton,CB,SUB,30,77,77,37000.0,8500000.0,2,2025,England
+208135,A. Doucouré,Abdoulaye Doucouré,Everton,"CM, CDM",RCM,30,77,77,40000.0,10000000.0,2,2024,Mali
+210697,C. Nørgaard,Christian Thers Nørgaard,Brentford,CDM,CDM,29,77,77,50000.0,9000000.0,1,2025,Denmark
+210736,Emerson,Emerson Palmieri dos Santos,West Ham United,LB,LB,28,77,77,59000.0,9500000.0,2,2026,Italy
+211575,André Gomes,André Filipe Tavares Gomes,Everton,"CDM, CM",SUB,29,77,77,38000.0,9000000.0,2,2024,Portugal
+213991,J. Lerma,Jefferson Andrés Lerma Solís,Crystal Palace,"CDM, CM",LDM,28,77,77,38000.0,9500000.0,1,2026,Colombia
+226456,Pablo Fornals,Pablo Fornals Malla,West Ham United,"LM, CAM",SUB,27,77,77,61000.0,11000000.0,2,2024,Spain
+234824,Y. Wissa,Yoane Wissa,Brentford,"LW, ST",ST,26,77,77,57000.0,11500000.0,1,2026,Congo DR
+259399,R. Højlund,Rasmus Winther Højlund,Manchester United,ST,SUB,20,76,89,72000.0,18000000.0,1,2028,Denmark
+259307,M. Gusto,Malo Gusto,Chelsea,RB,RB,20,76,85,53000.0,15500000.0,1,2030,France
+273463,João Gomes,João Victor Gomes da Silva,Wolverhampton Wanderers,"CDM, CM",RCM,22,76,84,44000.0,16000000.0,1,2028,Brazil
+241508,M. Damsgaard,Mikkel Krogh Damsgaard,Brentford,"CAM, LW, CM",SUB,22,76,83,42000.0,15000000.0,2,2027,Denmark
+248484,N. Collins,Nathan Michael Collins,Brentford,"CB, RB",SUB,22,76,83,38000.0,14000000.0,1,2029,Republic of Ireland
+251421,B. Johnson,Brennan Price Johnson,Tottenham Hotspur,"RW, ST",SUB,22,76,83,63000.0,15000000.0,1,2029,Wales
+257057,A. Onana,Amadou Zeund Georges Ba Mvom Onana,Everton,"CDM, CM",LCM,21,76,83,25000.0,14500000.0,1,2027,Belgium
+248808,A. Hickey,Aaron Buchanan Hickey,Brentford,"RB, RWB, LB",RB,21,76,82,32000.0,11500000.0,1,2026,Scotland
+273106,Danilo,Danilo dos Santos de Oliveira,Nottingham Forest,"CDM, CM",LCM,22,76,82,44000.0,11000000.0,1,2029,Brazil
+240947,T. Mitchell,Tyrick Mitchell,Crystal Palace,LB,LB,23,76,81,29000.0,10500000.0,1,2025,England
+241585,Igor,Igor Júlio dos Santos de Paulo,Brighton & Hove Albion,CB,SUB,25,76,81,58000.0,10000000.0,1,2028,Brazil
+243282,D. McNeil,Dwight McNeil,Everton,"LM, RM",RM,23,76,81,33000.0,11500000.0,1,2027,England
+251530,Nuno Tavares,Nuno Albertino Varela Tavares,Nottingham Forest,"LB, LM",SUB,23,76,81,64000.0,10500000.0,1,2024,Portugal
+234078,O. Mangala,Orel Mangala,Nottingham Forest,"CM, CDM",SUB,25,76,80,54000.0,10500000.0,2,2026,Belgium
+235167,V. Janelt,Vitaly Janelt,Brentford,"CDM, CM",LCM,25,76,80,42000.0,9500000.0,1,2026,Germany
+240787,H. Traorè,Hamed Junior Traorè,AFC Bournemouth,"LM, LW, CAM",SUB,23,76,80,38000.0,11000000.0,1,2028,Côte d'Ivoire
+245336,M. Kilman,Maximilian Kilman,Wolverhampton Wanderers,CB,LCB,26,76,80,51000.0,9000000.0,1,2028,England
+226229,T. Kehrer,Jan Thilo Kehrer,West Ham United,"CB, RB",SUB,26,76,79,52000.0,8500000.0,2,2026,Germany
+243647,A. Bayındır,Altay Bayındır,Manchester United,GK,SUB,25,76,79,60000.0,7500000.0,1,2027,Turkey
+228151,J. Cullen,Joshua Jon Cullen,Burnley,"CDM, CM",RDM,27,76,78,40000.0,8000000.0,1,2026,Republic of Ireland
+236506,M. Senesi,Marcos Nicolás Senesi Barón,AFC Bournemouth,CB,RCB,26,76,78,40000.0,8000000.0,2,2026,Argentina
+205990,H. Reed,Harrison Reed,Fulham,"CDM, CM",RCM,28,76,77,63000.0,7000000.0,1,2024,England
+215798,M. Cornet,Gnaly Maxwel Cornet,West Ham United,"LM, CF",SUB,26,76,77,57000.0,9000000.0,2,2027,Côte d'Ivoire
+216266,K. Tete,Kenny Joelle Tete,Fulham,RB,RB,27,76,77,60000.0,8000000.0,1,2024,Netherlands
+218659,M. Targett,Matt Targett,Newcastle United,LB,SUB,27,76,77,74000.0,8000000.0,1,2026,England
+228295,R. Holding,Rob Holding,Crystal Palace,CB,SUB,27,76,77,34000.0,7500000.0,1,2026,England
+229348,A. Robinson,Antonee Robinson,Fulham,"LB, LWB",LB,25,76,77,58000.0,8000000.0,1,2024,United States
+232080,J. Harrison,Jack Harrison,Everton,"LM, RM",SUB,26,76,77,42000.0,9000000.0,1,2024,England
+152908,A. Young,Ashley Young,Everton,"LB, RB, LM",LB,37,76,76,25000.0,1700000.0,2,2024,England
+172203,F. Forster,Fraser Forster,Tottenham Hotspur,GK,SUB,35,76,76,32000.0,825000.0,2,2024,England
+180819,A. Lallana,Adam David Lallana,Brighton & Hove Albion,"CAM, CM, CDM",SUB,35,76,76,49000.0,3100000.0,2,2024,England
+183855,A. Ogbonna,Angelo Obinze Ogbonna,West Ham United,CB,SUB,35,76,76,38000.0,2000000.0,2,2024,Italy
+186146,D. Welbeck,Daniel Nii Tackie Mensah Welbeck,Brighton & Hove Albion,ST,ST,32,76,76,72000.0,6000000.0,2,2024,England
+200759,J. Schlupp,Jeffrey Schlupp,Crystal Palace,"CDM, CM",LM,30,76,76,34000.0,6500000.0,1,2024,Ghana
+202750,W. Boly,Willy-Arnaud Zobo Boly,Nottingham Forest,CB,RCB,32,76,76,51000.0,4900000.0,1,2024,Côte d'Ivoire
+203502,B. De Cordova-Reid,Bobby De Cordova-Reid,Fulham,"RM, LM",LM,30,76,76,66000.0,7000000.0,1,2024,Jamaica
+204838,R. Jiménez,Raúl Alonso Jiménez Rodríguez,Fulham,ST,ST,32,76,76,72000.0,6000000.0,3,2025,Mexico
+206075,S. Johnstone,Sam Johnstone,Crystal Palace,GK,GK,30,76,76,28000.0,5000000.0,2,2026,England
+206085,J. Murphy,Jacob Murphy,Newcastle United,"RW, LW",SUB,28,76,76,90000.0,7500000.0,1,2027,England
+210455,Jonny,Jonathan Castro Otto,Wolverhampton Wanderers,"LB, LWB, RWB",SUB,29,76,76,54000.0,6500000.0,2,2025,Spain
+213655,A. Iwobi,Alex Iwobi,Fulham,"RM, CM",SUB,27,76,76,66000.0,8000000.0,2,2028,Nigeria
+213956,Adama Traoré,Adama Traoré Diarra,Fulham,"RW, RM, ST",SUB,27,76,76,72000.0,8000000.0,1,2025,Spain
+226380,Hwang Hee Chan,황희찬 黄喜灿,Wolverhampton Wanderers,"LM, ST",SUB,27,76,76,56000.0,8000000.0,1,2026,Korea Republic
+229723,M. Jensen,Mathias Jensen,Brentford,CM,RCM,27,76,76,49000.0,8000000.0,1,2026,Denmark
+268438,Alejandro Garnacho,Alejandro Garnacho Ferreyra,Manchester United,"LW, LM",SUB,19,75,88,54000.0,13500000.0,1,2028,Argentina
+246340,M. Mudryk,Mykhailo Mudryk,Chelsea,"LW, LM",SUB,22,75,85,74000.0,12500000.0,1,2031,Ukraine
+258498,B. Verbruggen,Bart Verbruggen,Brighton & Hove Albion,GK,SUB,20,75,85,30000.0,10500000.0,1,2028,Netherlands
+260908,M. Kerkez,Milos Kerkez,AFC Bournemouth,LB,LB,19,75,85,20000.0,11500000.0,1,2027,Hungary
+269176,A. Veliz,Alejo Véliz,Tottenham Hotspur,ST,RES,19,75,85,41000.0,12000000.0,1,2029,Argentina
+242964,A. Gordon,Anthony Gordon,Newcastle United,"LW, RW, LM",LW,22,75,84,74000.0,12500000.0,1,2028,England
+236524,A. Ahmedhodžić,Anel Ahmedhodžić,Sheffield United,CB,RCB,24,75,83,25000.0,11500000.0,1,2026,Bosnia and Herzegovina
+256268,A. Broja,Armando Broja,Chelsea,ST,SUB,21,75,83,64000.0,12500000.0,1,2028,Albania
+233164,A. Murić,Arijanet Anan Murić,Burnley,GK,SUB,24,75,82,26000.0,9500000.0,1,2026,Kosovo
+242641,R. Aït-Nouri,Rayan Aït-Nouri,Wolverhampton Wanderers,"LB, LWB",LB,22,75,82,42000.0,11000000.0,1,2026,France
+242660,J. Beyer,Louis Jordan Beyer,Burnley,CB,LCB,23,75,82,33000.0,10500000.0,1,2027,Germany
+262929,Vinicius Souza,Vinicius de Souza Costa,Sheffield United,"CDM, CM, CB",RCM,24,75,82,25000.0,10500000.0,1,2027,Brazil
+222951,M. Rodák,Marek Rodák,Fulham,GK,SUB,26,75,80,47000.0,6500000.0,1,2024,Slovakia
+224258,K. Ajer,Kristoffer Vassbakk Ajer,Brentford,"CB, RB",SUB,25,75,80,40000.0,7500000.0,1,2026,Norway
+235642,R. Yates,Ryan Yates,Nottingham Forest,"CDM, CM",RCM,25,75,80,46000.0,7500000.0,1,2025,England
+235883,R. Sessegnon,Kouassi Ryan Sessegnon,Tottenham Hotspur,"LB, LWB",RES,23,75,80,49000.0,8000000.0,1,2025,England
+236988,E. Nketiah,Edward Nketiah,Arsenal,ST,ST,24,75,80,74000.0,8500000.0,1,2027,England
+240740,C. Hudson-Odoi,Callum Hudson-Odoi,Nottingham Forest,"LW, RW",SUB,22,75,80,51000.0,8500000.0,2,2026,England
+242418,T. Lamptey,Tariq Lamptey,Brighton & Hove Albion,"RB, RWB",SUB,22,75,80,49000.0,8000000.0,1,2025,Ghana
+228092,S. Berge,Sander Gard Bolin Berge,Burnley,CM,LDM,25,75,79,40000.0,8000000.0,1,2027,Norway
+235456,J. Bellegarde,Jean-Ricner Bellegarde,Wolverhampton Wanderers,"CM, CDM",SUB,25,75,79,51000.0,8000000.0,2,2028,France
+237477,M. Tavernier,Marcus Tavernier,AFC Bournemouth,"LM, RM, CAM",SUB,24,75,79,37000.0,8000000.0,1,2027,England
+239015,E. Dennis,Emmanuel Bonaventure Dennis,Nottingham Forest,"ST, LW",SUB,25,75,79,56000.0,8000000.0,1,2026,Nigeria
+244380,V. Mykolenko,Vitaliy Mykolenko,Everton,"LB, LWB",SUB,24,75,79,28000.0,7500000.0,1,2026,Ukraine
+225539,D. Solanke,Dominic Solanke,AFC Bournemouth,ST,ST,25,75,78,44000.0,7500000.0,1,2026,England
+233866,O. Edouard,Odsonne Édouard,Crystal Palace,ST,ST,25,75,78,37000.0,7500000.0,1,2025,France
+225793,B. Godfrey,Ben Godfrey,Everton,"CB, LB, RB",SUB,25,75,77,31000.0,6000000.0,2,2025,England
+234741,G. Hamer,Gustavo Hamer,Sheffield United,"CM, CDM, CAM",LCM,26,75,77,32000.0,7000000.0,1,2027,Netherlands
+236461,J. Mateta,Jean-Philippe Mateta,Crystal Palace,ST,SUB,26,75,77,39000.0,7000000.0,1,2026,France
+211117,D. Alli,Bamidele Alli,Everton,"CM, CAM",SUB,27,75,76,36000.0,6500000.0,3,2024,England
+220659,J. Brownhill,Josh Brownhill,Burnley,"CM, CAM, CDM",SUB,27,75,76,42000.0,6500000.0,1,2024,England
+220710,H. Wilson,Harry Wilson,Fulham,"RM, RW",RM,26,75,76,63000.0,6500000.0,1,2026,Wales
+225147,C. Roberts,Connor Roberts,Burnley,"RB, RWB",RB,27,75,76,38000.0,6000000.0,1,2025,Wales
+169588,J. Evans,Jonathan Grant Evans,Manchester United,CB,SUB,35,75,75,54000.0,1500000.0,2,2024,Northern Ireland
+180216,S. Coleman,Séamus Coleman,Everton,"RB, RWB",SUB,34,75,75,33000.0,2100000.0,2,2024,Republic of Ireland
+186801,C. Kouyaté,Cheikhou Kouyaté,Nottingham Forest,"CDM, CM, CB",SUB,33,75,75,49000.0,2800000.0,2,2024,Senegal
+192123,C. Wood,Christopher Grant Wood,Nottingham Forest,ST,SUB,31,75,75,58000.0,4800000.0,1,2025,New Zealand
+193182,W. Foderingham,Wesley Foderingham,Sheffield United,GK,GK,32,75,75,24000.0,2800000.0,1,2024,England
+201417,M. Doherty,Matthew James Doherty,Wolverhampton Wanderers,"RB, RWB",SUB,31,75,75,49000.0,4100000.0,1,2026,Republic of Ireland
+203487,J. Lascelles,Jamaal Lascelles,Newcastle United,CB,RES,29,75,75,74000.0,4700000.0,2,2024,England
+207557,R. Olsen,Robin Patrick Olsen,Aston Villa,GK,SUB,33,75,75,47000.0,1800000.0,1,2024,Sweden
+207948,B. Traoré,Bertrand Isidore Traoré,Aston Villa,"RM, RW",SUB,27,75,75,63000.0,6000000.0,2,2024,Burkina Faso
+211454,M. Elneny,Mohamed Naser Elsayed Elneny,Arsenal,"CDM, CM",RES,30,75,75,71000.0,4700000.0,1,2024,Egypt
+212501,L. Dendoncker,Leander Dendoncker,Aston Villa,"CM, CDM",SUB,28,75,75,66000.0,5500000.0,2,2025,Belgium
+213135,D. Origi,Divock Okoth Origi,Nottingham Forest,"ST, LW",RES,28,75,75,56000.0,6000000.0,2,2024,Belgium
+234777,Z. Steffen,Zack Steffen,Manchester City,GK,SUB,28,75,75,69000.0,4000000.0,1,2025,United States
+244621,Vinícius,Carlos Vinícius Alves Morais,Fulham,ST,SUB,28,75,75,71000.0,6000000.0,2,2025,Brazil
+259608,E. Ferguson,Evan Ferguson,Brighton & Hove Albion,ST,SUB,18,74,86,26000.0,10000000.0,1,2028,Republic of Ireland
+254088,A. Diallo,Amad Diallo Traoré,Manchester United,"RW, CAM",RES,20,74,84,63000.0,9500000.0,1,2025,Côte d'Ivoire
+262859,L. Colwill,Levi Samuels Colwill,Chelsea,CB,LB,20,74,84,47000.0,8500000.0,1,2029,England
+241811,Sergio Gómez,Sergio Gómez Martín,Manchester City,LB,SUB,22,74,83,64000.0,9000000.0,1,2026,Spain
+248465,I. Maatsen,Ian Ethan Maatsen,Chelsea,"LB, LWB",SUB,21,74,83,47000.0,9000000.0,1,2024,Netherlands
+260843,A. Zaroury,Anass Zaroury,Burnley,"LM, ST",SUB,22,74,83,34000.0,9500000.0,1,2028,Morocco
+262118,T. Livramento,Valentino Livramento,Newcastle United,RB,SUB,20,74,83,47000.0,9000000.0,1,2028,England
+262642,Z. Amdouni,Mohamed Zeki Amdouni,Burnley,"ST, CAM",CAM,22,74,83,37000.0,9500000.0,1,2028,Switzerland
+265693,J. Kiwior,Jakub Piotr Kiwior,Arsenal,"CB, CDM",SUB,23,74,83,56000.0,8500000.0,1,2028,Poland
+241436,C. Bassey,Calvin Bassey Ughelumba,Fulham,"CB, LB",SUB,23,74,82,46000.0,8500000.0,1,2027,Nigeria
+231448,R. Nelson,Reiss Nelson,Arsenal,"RW, LW",SUB,23,74,81,69000.0,8500000.0,1,2027,England
+243057,N. Williams,Neco Williams,Nottingham Forest,"RWB, RB, LWB",SUB,22,74,81,39000.0,8000000.0,1,2026,Wales
+258607,Toti Gomes,Tote António Gomes,Wolverhampton Wanderers,"CB, LB",SUB,24,74,81,39000.0,8000000.0,1,2027,Portugal
+269626,Đ. Petrović,Đorđe Petrović,Chelsea,GK,SUB,23,74,81,44000.0,7000000.0,1,2030,Serbia
+239778,J. Moder,Jakub Piotr Moder,Brighton & Hove Albion,"CM, CDM, LM",RES,24,74,80,51000.0,6500000.0,1,2025,Poland
+241842,B. Johnson,Benjamin Johnson,West Ham United,"RB, LB, CB",SUB,23,74,80,40000.0,6000000.0,1,2024,England
+241928,A. Sambi Lokonga,Albert-Mboyo Sambi Lokonga,Luton Town,"CDM, CM",SUB,23,74,80,56000.0,6000000.0,1,2024,Belgium
+243608,R. Giles,Ryan Giles,Luton Town,"LWB, LB",SUB,23,74,79,31000.0,6000000.0,1,2027,England
+250954,C. Richards,Christopher Jeffrey Richards,Crystal Palace,CB,SUB,23,74,79,26000.0,6000000.0,1,2027,United States
+235454,M. Sarr,Malang Sarr,Chelsea,"CB, LB",RES,24,74,78,56000.0,5500000.0,1,2025,France
+224294,L. Cook,Lewis Cook,AFC Bournemouth,"CM, CDM",SUB,26,74,76,39000.0,5000000.0,1,2025,England
+230005,T. Davies,Tom Davies,Sheffield United,"CM, CDM",SUB,25,74,76,29000.0,5500000.0,1,2026,England
+230708,J. Worrall,Joe Worrall,Nottingham Forest,CB,CB,26,74,76,45000.0,4600000.0,1,2024,England
+211784,N. Maupay,Neal Maupay,Brentford,ST,SUB,26,74,75,36000.0,5000000.0,1,2024,France
+212151,T. Strakosha,Thomas Strakosha,Brentford,GK,SUB,28,74,75,34000.0,3300000.0,1,2026,Albania
+220196,D. Brooks,David Robert Brooks,AFC Bournemouth,"RM, RW",SUB,25,74,75,37000.0,5000000.0,1,2026,Wales
+221269,J. Riedewald,Jaïro Riedewald,Crystal Palace,"CDM, CM",SUB,26,74,75,30000.0,4400000.0,1,2024,Netherlands
+222724,B. Manuel,Benson Manuel Hedilazio,Burnley,"RM, RW",SUB,26,74,75,39000.0,5000000.0,1,2027,Belgium
+183491,Zanka,Mathias Jattah-Njie Jørgensen,Brentford,CB,SUB,33,74,74,39000.0,2000000.0,1,2025,Denmark
+186143,O. Norwood,Oliver Norwood,Sheffield United,"CDM, CM",CDM,32,74,74,27000.0,2800000.0,1,2024,Northern Ireland
+186392,J. Ward,Joel Ward,Crystal Palace,RB,RB,33,74,74,30000.0,2200000.0,1,2024,England
+190456,N. Clyne,Nathaniel Edwin Clyne,Crystal Palace,RB,SUB,32,74,74,30000.0,2900000.0,2,2024,England
+190885,A. Smith,Adam Smith,AFC Bournemouth,"RB, RWB",SUB,32,74,74,36000.0,2900000.0,1,2024,England
+195202,T. Cairney,Tom Cairney,Fulham,"CM, CAM",SUB,32,74,74,58000.0,3300000.0,1,2024,Scotland
+197756,J. Ayew,Jordan Pierre Ayew,Crystal Palace,"RW, LW",RM,31,74,74,36000.0,3500000.0,2,2024,Ghana
+199189,R. Barkley,Ross Barkley,Luton Town,"CAM, CM",LCM,29,74,74,41000.0,4100000.0,2,2024,England
+204936,J. Egan,John Egan,Sheffield United,CB,CB,30,74,74,27000.0,3500000.0,1,2024,Republic of Ireland
+205989,C. Chambers,Calum Chambers,Aston Villa,"CB, RB, CDM",SUB,28,74,74,56000.0,3600000.0,2,2025,England
+206516,W. Hughes,Will Hughes,Crystal Palace,"CM, CDM",SUB,28,74,74,34000.0,4200000.0,1,2024,England
+211363,T. Lockyer,Thomas Alun Lockyer,Luton Town,CB,RCB,28,74,74,37000.0,3600000.0,1,2025,Wales
+213884,R. Christie,Ryan Christie,AFC Bournemouth,"RM, RW",CAM,28,74,74,41000.0,4200000.0,1,2024,Scotland
+222994,M. Nakamba,Marvelous Nakamba,Luton Town,"CDM, CM",CDM,29,74,74,37000.0,3600000.0,1,2026,Zimbabwe
+263620,R. Lavia,Roméo Lavia,Chelsea,CDM,SUB,19,73,86,32000.0,7000000.0,1,2030,Belgium
+271574,R. Lewis,Rico Lewis,Manchester City,"RB, CDM",SUB,18,73,86,20000.0,7000000.0,1,2028,England
+252042,João Pedro,João Pedro Junqueira de Jesus,Brighton & Hove Albion,"ST, CAM",CAM,21,73,83,44000.0,7000000.0,1,2028,Brazil
+253052,I. Kaboré,Issa Kaboré,Luton Town,"RWB, RB, RM",RWB,22,73,83,59000.0,6500000.0,1,2024,Burkina Faso
+257084,L. Ugochukwu,Lesley Chimuanya Ugochukwu,Chelsea,"CM, CDM",SUB,19,73,83,37000.0,6500000.0,1,2030,France
+252037,Fábio Silva,Fábio Daniel Soares Silva,Wolverhampton Wanderers,ST,ST,20,73,82,38000.0,6500000.0,1,2025,Portugal
+257470,A. Elanga,Anthony David Junior Elanga,Nottingham Forest,"RW, ST, LW",RW,21,73,82,38000.0,7000000.0,1,2028,Sweden
+260779,S. Adingra,Simon Adingra,Brighton & Hove Albion,"LM, ST",SUB,21,73,82,40000.0,7000000.0,1,2026,Côte d'Ivoire
+258781,I. Zabarnyi,Illia Zabarnyi,AFC Bournemouth,CB,LCB,20,73,81,23000.0,6000000.0,1,2028,Ukraine
+240913,C. Kelleher,Caoimhin Kelleher,Liverpool,GK,SUB,24,73,80,40000.0,5000000.0,1,2026,Republic of Ireland
+235755,A. Trusty,Auston Levi-Jesaiah Trusty,Sheffield United,"CB, LB",SUB,24,73,79,22000.0,4400000.0,1,2027,United States
+244591,J. Bogle,Jayden Bogle,Sheffield United,"RWB, RB",SUB,22,73,79,22000.0,4600000.0,1,2024,England
+252316,H. Ekdal,Hjalmar Ekdal,Burnley,CB,RES,24,73,79,28000.0,4400000.0,1,2027,Sweden
+258930,C. Archer,Cameron Archer,Sheffield United,ST,LS,21,73,79,23000.0,4900000.0,1,2027,England
+227503,J. Larsen,Jacob Bruun Larsen,Burnley,"ST, LM",SUB,24,73,78,25000.0,4700000.0,1,2024,Denmark
+231445,J. Dasilva,Pelenda Joshua Tunga Dasilva,Brentford,CM,SUB,24,73,78,34000.0,4600000.0,1,2024,England
+231512,L. Kelly,Lloyd Kelly,AFC Bournemouth,"CB, LB",SUB,24,73,78,28000.0,4200000.0,1,2024,England
+240060,M. Aarons,Maximillian James Aarons,AFC Bournemouth,RB,RB,23,73,78,28000.0,4300000.0,1,2027,England
+239529,F. Onyeka,Frank Ogochukwu Onyeka,Brentford,"CDM, CM",SUB,25,73,77,34000.0,3800000.0,1,2027,Nigeria
+254470,L. Thomas,Luke Thomas,Sheffield United,"LB, LWB",SUB,22,73,77,27000.0,4100000.0,1,2024,England
+225974,S. McKenna,Scott McKenna,Nottingham Forest,CB,LCB,26,73,76,41000.0,3500000.0,1,2024,Scotland
+224656,O. Aina,Temitayo Olufisayo Olaoluwa Aina,Nottingham Forest,"LB, LM, RM",LWB,26,73,75,41000.0,3500000.0,1,2024,Nigeria
+188400,T. Kaminski,Thomas Kaminski,Luton Town,GK,SUB,30,73,74,27000.0,2300000.0,1,2026,Belgium
+198350,D. Bentley,Daniel Bentley,Wolverhampton Wanderers,GK,SUB,29,73,74,36000.0,2300000.0,1,2025,England
+169706,J. Cork,Jack Cork,Burnley,"CDM, CM",SUB,34,73,73,33000.0,1000000.0,2,2024,England
+169792,J. Rodriguez,Jay Rodriguez,Burnley,ST,SUB,33,73,73,39000.0,1900000.0,2,2024,England
+170084,W. Hennessey,Wayne Robert Hennessey,Nottingham Forest,GK,RES,36,73,73,22000.0,350000.0,1,2024,Wales
+170597,T. Krul,Tim Krul,Luton Town,GK,SUB,35,73,73,17000.0,350000.0,2,2025,Netherlands
+184274,C. Basham,Chris Basham,Sheffield United,CB,SUB,34,73,73,25000.0,1000000.0,1,2024,England
+191076,J. Guðmundsson,Johann Berg Guðmunds­son,Burnley,"CAM, RM, CM",RM,32,73,73,36000.0,2400000.0,1,2024,Iceland
+198261,T. Ream,Timothy Michael Ream,Fulham,CB,LCB,35,73,73,35000.0,800000.0,1,2024,United States
+201118,Cédric,Cédric Ricardo Alves Soares,Arsenal,RB,SUB,31,73,73,60000.0,2200000.0,2,2024,Portugal
+204355,P. Dummett,Paul Dummett,Newcastle United,"CB, LB",SUB,31,73,73,60000.0,2100000.0,1,2024,Wales
+204760,C. Taylor,Charlie Taylor,Burnley,"CB, LB",SUB,29,73,73,34000.0,2500000.0,1,2024,England
+205346,R. Fredericks,Ryan Fredericks,AFC Bournemouth,RB,RES,30,73,73,33000.0,2600000.0,1,2024,England
+207650,E. Krafth,Emil Henry Kristoffer Krafth,Newcastle United,"RB, CB",SUB,28,73,73,63000.0,2800000.0,1,2024,Sweden
+213693,J. Rothwell,Joe Rothwell,AFC Bournemouth,"CM, CDM",RDM,28,73,73,37000.0,3000000.0,1,2026,England
+216627,K. Moore,Kieffer Roberto Francisco Moore,AFC Bournemouth,ST,SUB,30,73,73,39000.0,3000000.0,1,2025,Wales
+271975,Stefan Bajcetic,Stefan Bajcetic Maquieira,Liverpool,"CDM, CM",SUB,18,72,86,15000.0,5000000.0,1,2027,Spain
+247649,J. Branthwaite,Jarrad Branthwaite,Everton,CB,LCB,21,72,84,18000.0,5500000.0,1,2025,England
+261299,A. Scott,Alex Scott,AFC Bournemouth,"CM, CAM",SUB,19,72,84,18000.0,5500000.0,1,2028,England
+270866,Y. Chermiti,Youssef Ramalho Chermiti,Everton,ST,SUB,19,72,83,18000.0,5000000.0,1,2027,Portugal
+243657,J. Garner,James David Garner,Everton,"CDM, CM, RB",SUB,22,72,82,21000.0,5000000.0,1,2026,England
+254243,E. Anderson,Elliott Anderson,Newcastle United,"CM, LW",SUB,20,72,82,43000.0,5000000.0,1,2026,Scotland
+257896,N. Patterson,Nathan Kenneth Patterson,Everton,"RB, RWB",RB,21,72,82,18000.0,5000000.0,1,2027,Scotland
+260926,K. Schade,Kevin Schade,Brentford,"RW, ST, LW",LW,21,72,82,29000.0,5500000.0,1,2028,Germany
+261224,Hugo Bueno,Hugo Bueno López,Wolverhampton Wanderers,"LB, LWB",SUB,20,72,82,26000.0,4900000.0,1,2026,Spain
+259868,P. Sarr,Pape Matar Sarr,Tottenham Hotspur,"CM, CDM",RCM,20,72,81,35000.0,5000000.0,1,2026,Senegal
+263573,A. Al Dakhil,Ameen Al Dakhil,Burnley,CB,SUB,21,72,81,21000.0,4900000.0,1,2026,Belgium
+265552,D. Ouattara,Dango Aboubacar Faissal Ouattara,AFC Bournemouth,"RM, LM",SUB,21,72,81,23000.0,5500000.0,1,2028,Burkina Faso
+243606,K. Lewis-Potter,Keane Lewis-Potter,Brentford,"LW, LM",SUB,22,72,80,33000.0,5500000.0,1,2028,England
+245992,B. Gilmour,Billy Gilmour,Brighton & Hove Albion,"CDM, CM",SUB,22,72,80,37000.0,5000000.0,1,2026,Scotland
+235405,D. O'Shea,Dara Joseph O'Shea,Burnley,"CB, RB",RCB,24,72,78,25000.0,3400000.0,1,2027,Republic of Ireland
+252483,A. Doughty,Alfie Doughty,Luton Town,"LWB, RWB",LWB,23,72,78,25000.0,3500000.0,1,2025,England
+229375,E. Adebayo,Elijah Adebayo,Luton Town,ST,RS,25,72,77,33000.0,3500000.0,1,2026,England
+237440,H. Delcroix,Hannes Delcroix,Burnley,"CB, LB",LB,24,72,77,25000.0,3200000.0,1,2026,Belgium
+212100,M. Lowe,Max Lowe,Sheffield United,"LWB, LB",LWB,26,72,75,22000.0,2800000.0,1,2024,England
+236723,F. Ballo-Touré,Fodé Ballo-Touré,Fulham,"LB, LM",SUB,26,72,75,34000.0,2800000.0,1,2024,Senegal
+210635,K. Hause,Kortney Hause,Aston Villa,CB,RES,27,72,74,43000.0,2500000.0,1,2025,England
+219736,E. Horvath,Ethan Shea Horvath,Nottingham Forest,GK,RES,28,72,74,31000.0,2000000.0,1,2024,United States
+234102,I. Radu,Ionuț Andrei Radu,AFC Bournemouth,GK,SUB,26,72,74,32000.0,2200000.0,1,2024,Romania
+220031,O. McBurnie,Oliver McBurnie,Sheffield United,ST,RS,27,72,73,27000.0,2700000.0,1,2024,Scotland
+163264,T. Heaton,Tom Heaton,Manchester United,GK,RES,37,72,72,30000.0,250000.0,1,2024,England
+169697,D. Randolph,Darren Randolph,AFC Bournemouth,GK,RES,36,72,72,15000.0,250000.0,1,2024,Republic of Ireland
+173546,J. Tomkins,James Tomkins,Crystal Palace,CB,SUB,34,72,72,25000.0,750000.0,1,2024,England
+186395,M. Ritchie,Matt Ritchie,Newcastle United,"LM, LB",RES,33,72,72,58000.0,1500000.0,1,2024,Scotland
+194911,Adrián,Adrián San Miguel del Castillo,Liverpool,GK,RES,36,72,72,28000.0,250000.0,1,2024,Spain
+199027,J. Robinson,Jack Robinson,Sheffield United,CB,LCB,29,72,72,23000.0,2000000.0,1,2025,England
+203775,L. Karius,Loris Karius,Newcastle United,GK,RES,30,72,72,43000.0,1600000.0,2,2024,Germany
+210972,Manquillo,Javier Manquillo Gaitán,Newcastle United,"RB, RWB",RES,29,72,72,56000.0,2100000.0,2,2024,Spain
+213152,C. Morris,Carlton Morris,Luton Town,ST,LS,27,72,72,34000.0,2500000.0,1,2026,England
+263063,J. Trafford,James Trafford,Burnley,GK,GK,20,71,84,14000.0,4000000.0,1,2028,England
+253283,F. Pellistri,Facundo Pellistri Rebollo,Manchester United,"RW, LW",SUB,21,71,82,45000.0,4200000.0,1,2025,Uruguay
+246594,H. Massengo,Han-Noah Massengo,Burnley,"CDM, CM",RES,21,71,80,18000.0,4000000.0,1,2027,France
+264035,J. Rak-Sakyi,Jesurun Rak-Sakyi,Crystal Palace,RW,SUB,20,71,80,20000.0,4100000.0,1,2027,England
+244661,Vitinho,Victor Alexander da Silva,Burnley,"RB, RM, LB",SUB,23,71,78,22000.0,3600000.0,1,2026,Brazil
+258908,J. van Hecke,Jan Paul van Hecke,Brighton & Hove Albion,CB,SUB,23,71,78,33000.0,3500000.0,1,2026,Netherlands
+233510,T. Chong,Tahith Chong,Luton Town,"RM, CM, CF",RCM,23,71,76,24000.0,2800000.0,1,2027,Netherlands
+238157,M. Roerslev,Mads Roerslev Rasmussen,Brentford,"RWB, RB",SUB,24,71,75,24000.0,2500000.0,1,2026,Denmark
+228419,M. Andersen,Mads Juel Andersen,Luton Town,CB,CB,25,71,74,24000.0,2200000.0,1,2026,Denmark
+233201,C. Mepham,Christopher James Mepham,AFC Bournemouth,CB,RES,25,71,74,24000.0,2200000.0,1,2025,Wales
+188836,J. Steele,Jason Steele,Brighton & Hove Albion,GK,GK,32,71,71,31000.0,925000.0,1,2025,England
+189177,J. Fleck,John Fleck,Sheffield United,"CM, CDM",RES,31,71,71,22000.0,1500000.0,1,2024,Scotland
+200855,G. Baldock,George Baldock,Sheffield United,"RWB, RB",RWB,30,71,71,20000.0,1600000.0,1,2024,Greece
+202464,J. Clark,Jordan Clark,Luton Town,"CM, CDM",SUB,29,71,71,29000.0,1800000.0,1,2026,England
+206086,H. Toffolo,Harry Toffolo,Nottingham Forest,"LB, LWB",RES,27,71,71,32000.0,1800000.0,1,2025,England
+207804,A. Bell,Amari'i Bell,Luton Town,"LWB, CB",LCB,29,71,71,27000.0,1600000.0,1,2025,Jamaica
+207956,P. Mpanzu,Pelly-Ruddock Mpanzu,Luton Town,"CM, CDM",SUB,29,71,71,29000.0,1800000.0,1,2024,Congo DR
+210985,B. Osborn,Ben Osborn,Sheffield United,"LWB, LM, CM",SUB,28,71,71,21000.0,1700000.0,1,2024,England
+273018,Andrey Santos,Andrey Nascimento dos Santos,Nottingham Forest,"CM, CDM",RES,19,70,84,25000.0,3800000.0,1,2024,Brazil
+255434,J. Enciso,Julio César Enciso Espínola,Brighton & Hove Albion,"LM, CAM, RM",SUB,19,70,82,21000.0,3800000.0,1,2026,Paraguay
+266270,A. Ramsey,Aaron Ramsey,Burnley,"LM, CM, CAM",RES,20,70,82,18000.0,3800000.0,1,2028,England
+261647,A. Omobamidele,Andrew Abiola Omobamidele,Nottingham Forest,CB,RES,21,70,81,20000.0,3300000.0,1,2028,Republic of Ireland
+264349,J. McAtee,James McAtee,Sheffield United,"CAM, CM",RES,20,70,80,37000.0,3500000.0,1,2024,England
+241236,A. Semenyo,Antoine Semenyo,AFC Bournemouth,ST,RM,23,70,78,23000.0,3600000.0,1,2027,Ghana
+246679,G. Biancone,Giulian Biancone,Nottingham Forest,"CB, RB",RES,23,70,78,24000.0,3300000.0,1,2025,France
+259205,N. Ahamada,Naouirou Ahamada,Crystal Palace,CM,SUB,21,70,78,15000.0,3600000.0,1,2026,France
+231185,G. Osho,Gabriel Osho,Luton Town,CB,RES,24,70,77,19000.0,3000000.0,1,2024,England
+221456,R. Burke,Reece Burke,Luton Town,CB,SUB,26,70,73,22000.0,1800000.0,1,2026,England
+240697,S. Baptiste,Shandon Baptiste,Brentford,"CM, CDM",RES,25,70,73,26000.0,2100000.0,1,2024,Grenada
+223926,S. Bastien,Samuel Christopher Bastien,Burnley,"CM, LM",RES,26,70,72,24000.0,2000000.0,1,2025,Congo DR
+231005,C. Ogbene,Chiedozie Ogbene,Luton Town,"CF, RWB",SUB,26,70,72,26000.0,2000000.0,1,2026,Republic of Ireland
+200715,A. Davies,Adam Rhys Davies,Sheffield United,GK,SUB,30,70,70,14000.0,1100000.0,1,2024,Wales
+204246,M. Bettinelli,Marcus Bettinelli,Chelsea,GK,RES,31,70,70,33000.0,850000.0,1,2026,England
+210644,E. Marcondes,Emiliano Marcondes Camargo Hansen,AFC Bournemouth,"CAM, CM",RES,28,70,70,25000.0,1600000.0,1,2024,Denmark
+264298,C. Bradley,Conor Bradley,Liverpool,"RB, RWB",RES,19,69,83,18000.0,3200000.0,1,2024,Northern Ireland
+269495,F. Buonanotte,Facundo Valentín Buonanotte,Brighton & Hove Albion,"RM, CAM",RES,18,69,82,11000.0,3200000.0,1,2026,Argentina
+272500,C. Baleba,Carlos Baleba,Brighton & Hove Albion,CM,SUB,19,69,82,18000.0,3300000.0,1,2028,Cameroon
+254120,T. Doyle,Thomas Glyn Doyle,Wolverhampton Wanderers,"CM, CDM",SUB,21,69,80,32000.0,3100000.0,1,2024,England
+264337,Rodrigo Muniz,Rodrigo Muniz Carvalho,Fulham,ST,SUB,22,69,80,30000.0,3200000.0,1,2026,Brazil
+241173,L. Foster,Lyle Brent Foster,Burnley,"ST, RM",ST,22,69,78,20000.0,3200000.0,1,2027,South Africa
+272936,Luizão,Luiz Gustavo Oliveira da Silva,West Ham United,CB,RES,21,69,78,18000.0,2900000.0,1,2026,Brazil
+252302,Y. Larouci,Yasser Larouci,Sheffield United,"LWB, LB",SUB,22,69,77,3000.0,3000000.0,1,2024,France
+242265,M. Obafemi,Michael Obafemi,Burnley,ST,RES,22,69,76,20000.0,2900000.0,1,2026,Republic of Ireland
+251545,D. Churlinov,Darko Churlinov,Burnley,"RM, RWB",RES,22,69,76,18000.0,2800000.0,1,2026,North Macedonia
+240773,R. Norrington-Davies,Rhys Llewelyn Norrington-Davies,Sheffield United,"LWB, CB, LB",SUB,24,69,74,13000.0,2000000.0,1,2024,Wales
+236650,J. Brown,Jacob Brown,Luton Town,"ST, RM",SUB,25,69,72,22000.0,1900000.0,1,2026,Scotland
+205887,C. Woodrow,Cauley Woodrow,Luton Town,"ST, LW",SUB,28,69,69,23000.0,1400000.0,1,2025,England
+265420,Matheus França,Matheus França de Oliveira,Crystal Palace,"CAM, ST",SUB,19,68,85,9000.0,3100000.0,1,2028,Brazil
+270579,W. Odobert,Wilson Odobert,Burnley,"LW, LM, RM",RES,18,68,81,8000.0,2800000.0,1,2028,France
+258171,H. Mejbri,Hannibal Mejbri,Manchester United,"CM, CAM",SUB,20,68,80,25000.0,2900000.0,1,2026,Tunisia
+278016,Murillo,Murillo Costa dos Santos,Nottingham Forest,CB,RES,20,68,80,15000.0,2700000.0,1,2028,Brazil
+252975,B. Traoré,Boubacar Traoré,Wolverhampton Wanderers,"CDM, CM",SUB,21,68,79,15000.0,2600000.0,1,2027,Mali
+238460,R. Brewster,Rhian Joel Brewster,Sheffield United,ST,RES,23,68,76,13000.0,2700000.0,1,2025,England
+203357,D. Potts,Daniel Potts,Luton Town,"CB, LWB",SUB,29,68,68,17000.0,1000000.0,1,2024,England
+223085,L. Berry,Luke David Berry,Luton Town,"CM, CAM",SUB,30,68,68,18000.0,1200000.0,1,2025,England
+231949,S. Ghoddos,Saman Ghoddos,Brentford,"CAM, CM, LM",RES,29,68,68,20000.0,1200000.0,1,2024,Iran
+266041,L. Koleosho,Luca Warrick Koleosho,Burnley,"LM, RM, RW",LM,18,67,84,5000.0,2600000.0,1,2027,Italy
+277795,Deivid Washington,Deivid W. de Souza Eugênio,Chelsea,"ST, LW",SUB,18,67,84,12000.0,2600000.0,1,2030,Brazil
+253715,D. Sarmiento,Darío Ariel Sarmiento,Manchester City,"RW, LW",RES,20,67,82,26000.0,2500000.0,1,2026,Argentina
+260651,B. Traore,Bénie Adama Traoré,Sheffield United,"ST, RW",SUB,20,67,82,10000.0,2500000.0,1,2027,Côte d'Ivoire
+257534,C. Palmer,Cole Palmer,Chelsea,"RW, CAM",SUB,21,67,81,23000.0,2500000.0,1,2030,England
+266609,T. Iroegbunam,Tim Iroegbunam,Aston Villa,"CDM, CM",RES,20,67,81,15000.0,2300000.0,1,2027,England
+268131,C. Egan-Riley,Conrad Jonathan Egan Riley,Burnley,"RB, CB",RES,20,67,80,10000.0,2300000.0,1,2025,England
+253465,T. Mengi,Teden Mengi,Luton Town,CB,RES,21,67,77,10000.0,2100000.0,1,2027,England
+240863,C. Coventry,Conor Coventry,West Ham United,"CDM, CM",RES,23,67,75,15000.0,2100000.0,1,2024,Republic of Ireland
+255210,A. Slimane,Anis Ben Slimane,Sheffield United,"CM, CAM",SUB,22,67,75,10000.0,2300000.0,1,2026,Tunisia
+246946,I. Coulibaly,Ismaila Cheick Coulibaly,Sheffield United,"CM, CDM",RES,22,67,74,10000.0,2100000.0,1,2024,Mali
+241076,S. Benda,Steven Benda,Fulham,GK,RES,24,67,73,14000.0,1300000.0,1,2026,Germany
+228997,C. Goode,Charlie Goode,Brentford,CB,RES,27,67,69,15000.0,1100000.0,1,2024,England
+193013,J. Shea,James Shea,Luton Town,GK,GK,32,67,67,11000.0,500000.0,1,2024,England
+266127,L. Hall,Lewis Hall,Newcastle United,"LB, LWB",SUB,18,66,82,6000.0,2100000.0,1,2024,England
+262227,D. Jebbison,Daniel David Jebbison,Sheffield United,ST,SUB,19,66,79,7000.0,2000000.0,1,2024,England
+267611,M. Ebiowei,Malcolm Ebiowei,Crystal Palace,"RW, RM",SUB,19,66,79,7000.0,2000000.0,1,2027,England
+237704,João Virgínia,João Manuel Neves Virgínia,Everton,GK,SUB,23,66,74,7000.0,1600000.0,1,2025,Portugal
+242752,N. Ferguson,Nathan Ferguson,Crystal Palace,"LB, RB",RES,22,66,72,9000.0,1300000.0,1,2024,England
+198039,M. Gillespie,Mark Gillespie,Newcastle United,GK,RES,31,66,66,17000.0,450000.0,1,2024,England
+259356,C. Chukwuemeka,Carney Chibueze Chukwuemeka,Chelsea,"CM, CAM, LW",RES,19,65,84,12000.0,1800000.0,1,2028,England
+247172,J. Durán,Jhon Jáder Durán Palacio,Aston Villa,ST,SUB,19,65,81,11000.0,1900000.0,1,2028,Colombia
+270608,Y. Yarmoliuk,Yehor Yarmoliuk,Brentford,"CAM, CM, RW",RES,19,65,79,7000.0,1700000.0,1,2028,Ukraine
+262981,L. Fiorini,Lewis Fiorini,Manchester City,CM,RES,21,65,76,17000.0,1600000.0,1,2026,Scotland
+243767,G. Kilkenny,Gavin Kilkenny,AFC Bournemouth,"CDM, CM",RES,23,65,72,9000.0,1300000.0,1,2025,Republic of Ireland
+213413,L. Vigouroux,Lawrence Ian Vigouroux,Burnley,GK,RES,29,65,66,9000.0,550000.0,1,2026,Chile
+157804,S. Carson,Scott Carson,Manchester City,GK,RES,37,65,65,11000.0,80000.0,1,2024,England
+277295,O. Bobb,Oscar Bobb,Manchester City,RW,SUB,19,64,80,14000.0,1500000.0,1,2026,Norway
+248732,K. Hein,Karl Jakob Hein,Arsenal,GK,RES,21,64,74,9000.0,1100000.0,1,2026,Estonia
+236568,B. Austin,Brandon Anthony Austin,Tottenham Hotspur,GK,RES,24,64,70,9000.0,750000.0,1,2024,England
+240175,Bruno Jordão,Bruno André Cavaco Jordão,Wolverhampton Wanderers,CM,RES,24,64,70,11000.0,925000.0,1,2024,Portugal
+244191,J. Anang,Joseph Tetteh Anang,West Ham United,GK,RES,23,64,70,8000.0,750000.0,1,2024,England
+203824,R. Matthews,Remi Matthews,Crystal Palace,GK,RES,29,64,66,7000.0,475000.0,1,2024,England
+225650,T. King,Thomas Lloyd King,Wolverhampton Wanderers,GK,RES,28,64,64,10000.0,425000.0,1,2024,Wales
+274246,L. Miley,Lewis Miley,Newcastle United,"CM, CDM, CAM",RES,17,63,85,2000.0,1500000.0,1,2024,England
+270617,A. Murphy,Alex Murphy,Newcastle United,"CB, LB",RES,19,63,81,8000.0,1200000.0,1,2024,Republic of Ireland
+256556,B. Chrisene,Benjamin Chrisene,Aston Villa,"LWB, LB",RES,19,63,77,7000.0,1100000.0,1,2025,England
+264039,L. Dobbin,Lewis Norman Dobbin,Everton,"LM, ST",SUB,20,63,74,6000.0,1100000.0,1,2025,England
+263582,M. Peart-Harris,Myles Peart-Harris,Brentford,"CM, CAM",RES,20,63,71,7000.0,1000000.0,1,2025,England
+236239,A. Whiteman,Alfie Malik Whiteman,Tottenham Hotspur,GK,RES,24,63,70,8000.0,825000.0,1,2025,England
+247764,K. John,Kyle Alex John,Everton,RB,RES,22,63,68,6000.0,700000.0,1,2024,England
+266815,B. Doak,Ben Doak,Liverpool,RW,SUB,17,62,84,3000.0,1200000.0,1,2026,Scotland
+269136,K. Mainoo,Kobbie Mainoo,Manchester United,"CDM, CM, CAM",RES,18,62,84,4000.0,1200000.0,1,2028,England
+274377,E. González,Enso David Gonzalez Medina,Wolverhampton Wanderers,"RM, RW",RES,18,62,82,4000.0,1100000.0,1,2029,Paraguay
+260406,K. Gordon,Kaide Gordon,Liverpool,"RW, LW",RES,18,62,81,7000.0,1000000.0,1,2024,England
+261621,L. Mbete,Luke Mbete-Tatu,Manchester City,CB,RES,19,62,81,8000.0,975000.0,1,2027,England
+253452,M. Azeez,Miguel Azeez,Arsenal,"CM, CDM",RES,20,62,79,11000.0,1000000.0,1,2024,England
+260910,S. Shoretire,Shola Maxwell Shoretire,Manchester United,"CAM, ST, LW",RES,19,62,79,9000.0,1000000.0,1,2024,England
+271976,L. Chambers,Luke Chambers,Liverpool,"LB, LWB, CB",RES,19,62,79,7000.0,1000000.0,1,2025,England
+273651,J. Quansah,Jarell Quansah,Liverpool,CB,RES,20,62,77,10000.0,900000.0,1,2024,England
+267844,Kim Ji Soo,Ji Soo Kim,Brentford,CB,SUB,18,62,76,2000.0,875000.0,1,2027,Korea Republic
+259096,T. Akinola,Tim Akinola,Arsenal,"CDM, CM",RES,22,62,75,12000.0,925000.0,1,2024,England
+246950,R. Astley,Ryan Astley,Everton,CB,RES,21,62,72,5000.0,825000.0,1,2025,Wales
+241825,T. Francois,Tyrese Jay Francois,Fulham,"CM, CDM",RES,22,62,70,10000.0,900000.0,1,2024,Australia
+268443,D. Gore,Daniel Gore,Manchester United,"CM, CAM",RES,18,61,84,5000.0,1000000.0,1,2024,England
+270937,L. Harris,Luke Harris,Fulham,CAM,RES,18,61,84,4000.0,1000000.0,1,2025,Wales
+276460,S. Moore,Sean Moore,West Ham United,"LM, RM",RES,17,61,82,1000.0,1000000.0,1,2026,Republic of Ireland
+277427,N. O'Reilly,Nico O'Reilly,Manchester City,"CAM, CM",RES,18,61,80,6000.0,825000.0,1,2024,England
+274387,R. Walters,Reuell Walters,Arsenal,"RB, CB",RES,18,61,79,4000.0,800000.0,1,2024,England
+268445,R. Bennett,Rhys Bennett,Manchester United,CB,RES,19,61,78,7000.0,800000.0,1,2025,England
+258724,E. Brierley,Ethan Craig Brierley,Brentford,CM,RES,19,61,76,5000.0,775000.0,1,2026,England
+264115,D. Williams,Dylan Williams,Chelsea,"LB, LWB",RES,19,61,76,7000.0,750000.0,1,2025,England
+262637,N. Young-Coombes,Nathan Young-Coombes,Brentford,"ST, RW, LW",RES,20,61,75,7000.0,800000.0,1,2024,England
+261032,J. Hodge,Joseph Shaun Hodge,Wolverhampton Wanderers,"CM, CDM",SUB,20,61,74,7000.0,775000.0,1,2027,Republic of Ireland
+261892,D. Franchi,Denis Franchi,Burnley,GK,RES,20,61,73,4000.0,700000.0,1,2025,Italy
+253428,V. Jaroš,Vítězslav Jaroš,Liverpool,GK,RES,21,61,70,7000.0,650000.0,1,2024,Czech Republic
+264192,N. Moriah-Welsh,Nathan Moriah-Welsh,AFC Bournemouth,CM,RES,21,61,70,6000.0,725000.0,1,2024,Guyana
+264731,A. Phillips,Ashley Phillips,Tottenham Hotspur,CB,SUB,18,60,82,3000.0,750000.0,1,2028,England
+271173,M. Olakigbe,Michael Olakigbe,Brentford,"LW, RW",RES,19,60,79,5000.0,625000.0,1,2026,England
+277283,J. Hinshelwood,Jack Hinshelwood,Brighton & Hove Albion,CDM,RES,18,60,78,3000.0,600000.0,1,2026,England
+268905,M. Craig,Matthew Craig,Tottenham Hotspur,CDM,RES,20,60,77,7000.0,625000.0,1,2026,Scotland
+270682,K. Šekularac,Kristian Šekularac,Fulham,CAM,RES,19,60,77,6000.0,625000.0,1,2024,Switzerland
+276064,J. Buyabu,Jili Buyabu,Sheffield United,LWB,RES,19,60,76,3000.0,600000.0,1,2024,England
+257239,J. Brooking,Josh Brooking,Chelsea,"CB, RB",RES,20,60,75,8000.0,550000.0,1,2024,England
+260192,A. Hackford,Antwoine Hackford,Sheffield United,ST,RES,19,60,75,4000.0,600000.0,1,2024,England
+263955,B. Knight,Ben Knight,Manchester City,RW,RES,21,60,74,12000.0,600000.0,1,2025,England
+263168,T. Onyango,Tyler Onyango,Everton,"CM, CAM",RES,20,60,72,5000.0,600000.0,1,2025,England
+270519,W. Osula,William Osula,Sheffield United,ST,RES,19,60,72,4000.0,600000.0,1,2024,Denmark
+264196,F. Seriki,Femi Seriki,Sheffield United,"RWB, RB",RES,21,60,71,4000.0,525000.0,1,2024,England
+273925,T. Foran,Taylor Foran,Arsenal,CB,RES,19,60,71,6000.0,500000.0,1,2024,England
+236663,E. Balcombe,Ellery Ronald Balcombe,Brentford,GK,SUB,23,60,68,5000.0,475000.0,1,2025,England
+267849,T. O'Reilly,Tommi O'Reilly,Aston Villa,"CM, CAM, RM",SUB,19,59,79,6000.0,625000.0,1,2025,Republic of Ireland
+267871,N. Fraser,Nathan Fraser,Wolverhampton Wanderers,ST,RES,18,59,79,4000.0,625000.0,1,2025,Republic of Ireland
+271974,B. Clark,Bobby Clark,Liverpool,"CM, LW",RES,18,59,79,5000.0,625000.0,1,2026,England
+271743,A. Cozier-Duberry,Amario Cozier-Duberry,Arsenal,"LW, CAM",RES,18,59,77,6000.0,575000.0,1,2024,England
+264580,D. Chesters,Daniel Chesters,West Ham United,"RM, LM",RES,21,59,74,7000.0,550000.0,1,2024,England
+264193,B. Greenwood,Ben Greenwood,AFC Bournemouth,"LB, CB",RES,20,59,73,5000.0,525000.0,1,2024,Republic of Ireland
+270936,C. McAvoy,Connor McAvoy,Fulham,CB,RES,21,59,69,7000.0,475000.0,1,2024,Scotland
+274102,O. Scarles,Oliver Scarles,West Ham United,"CDM, LB",RES,17,58,79,500.0,600000.0,1,2027,England
+278017,O. Kellyman,Omari Kellyman,Aston Villa,"CAM, RW, LW",SUB,17,58,78,1000.0,550000.0,1,2025,Northern Ireland
+271808,L. Sousa,Lino Sousa,Arsenal,LB,RES,18,58,77,3000.0,500000.0,1,2024,England
+271939,S. Parkes,Stefan Parkes,Fulham,"LB, CB",RES,19,58,76,5000.0,500000.0,1,2024,England
+278102,G. Kodua,Gideon Kodua,West Ham United,RM,RES,18,58,75,3000.0,525000.0,1,2025,England
+263411,J. Mullins,Jamie Mullins,Brighton & Hove Albion,CAM,RES,18,58,74,4000.0,525000.0,1,2025,Republic of Ireland
+258792,G. Wickens,George Wickens,Fulham,GK,RES,21,58,72,5000.0,450000.0,1,2024,England
+267476,T. Adaramola,Tayo Adaramola,Crystal Palace,LB,RES,19,58,72,3000.0,475000.0,1,2024,Republic of Ireland
+243848,B. Lyons-Foster,Brooklyn Lyons-Foster,Tottenham Hotspur,CB,RES,22,58,71,8000.0,475000.0,1,2024,England
+255200,T. Nevers,Thierry Nevers,West Ham United,"ST, LM",RES,21,58,69,8000.0,450000.0,1,2024,England
+243588,T. McGill,Thomas McGill,Brighton & Hove Albion,GK,RES,23,58,68,6000.0,400000.0,1,2025,Canada
+277434,M. Hunt,Mackenzie Hunt,Everton,"LM, LB",RES,21,58,65,5000.0,425000.0,1,2024,England
+247507,P. Glatzel,Paul Milton Glatzel,Liverpool,ST,RES,22,58,63,12000.0,325000.0,1,2024,Germany
+118794,A. Lonergan,Andrew Lonergan,Everton,GK,RES,39,58,58,3000.0,25000.0,1,2024,England
+268550,J. Feeney,Joshua Feeney,Aston Villa,CB,SUB,18,57,80,3000.0,500000.0,1,2028,England
+271227,D. Mubama,Divin Mubama,West Ham United,ST,SUB,18,57,78,4000.0,525000.0,1,2024,England
+274066,J. Tauriainen,Jimi Tauriainen,Chelsea,"CM, CDM",RES,19,57,77,7000.0,450000.0,1,2026,Finland
+275876,B. Parkinson,Ben Parkinson,Newcastle United,"RW, ST",RES,18,57,77,6000.0,450000.0,1,2024,England
+259430,Marcelo Pitaluga,Marcelo de Araújo Pitaluga Filho,Liverpool,GK,RES,20,57,74,6000.0,375000.0,1,2025,Brazil
+271191,J. Whitworth,Joseph Whitworth,Crystal Palace,GK,RES,19,57,74,2000.0,375000.0,1,2027,England
+264113,J. Wells-Morrison,Jack Wells-Morrison,Crystal Palace,"CM, CDM",RES,19,57,73,3000.0,425000.0,1,2024,England
+270679,O. O'Neill,Ollie O'Neill,Fulham,"CAM, LM",RES,20,57,73,8000.0,425000.0,1,2025,Republic of Ireland
+270683,I. Odutayo,Idris Odutayo,Fulham,"CB, LB",RES,20,57,72,7000.0,375000.0,1,2024,England
+268583,F. Marschall,Filip Marschall,Aston Villa,GK,RES,20,57,68,5000.0,300000.0,1,2026,England
+273587,D. Sadi,Dominic Sadi,AFC Bournemouth,"RM, LM",RES,19,57,68,4000.0,350000.0,1,2025,England
+258748,C. Chukwuemeka,Chigozier Caleb Chukwuemeka,Aston Villa,"LW, ST",RES,21,57,67,9000.0,375000.0,1,2024,England
+273693,D. Ozoh,David Ozoh,Crystal Palace,"CDM, CM",RES,18,56,79,2000.0,425000.0,1,2024,England
+257793,R. Richards,Rico Richards,Aston Villa,"LM, RM",RES,19,56,76,6000.0,400000.0,1,2026,England
+271822,J. Miley,Jamie Miley,Newcastle United,"CM, CDM",RES,19,56,75,7000.0,375000.0,1,2025,England
+271192,V. Akinwale,Victor Akinwale,Crystal Palace,ST,RES,18,56,74,3000.0,375000.0,1,2024,England
+276718,K. Rodney,Kaden Rodney,Crystal Palace,"CDM, RB",RES,18,56,74,2000.0,350000.0,1,2024,England
+251423,G. Shelvey,George Shelvey,Nottingham Forest,GK,RES,22,56,68,6000.0,300000.0,1,2024,England
+278097,G. Earthy,George Earthy,West Ham United,CAM,RES,18,56,68,3000.0,325000.0,1,2024,England
+278098,K. Casey,Kaelen Casey,West Ham United,CB,RES,18,55,75,2000.0,325000.0,1,2027,England
+250830,I. Samuels,Imari Narain Samuels,Brighton & Hove Albion,LB,RES,20,55,72,6000.0,325000.0,1,2024,England
+268605,C. Donnell,Chris Donnell,Fulham,"CM, CDM",RES,19,55,72,6000.0,325000.0,1,2026,Australia
+271064,J. Amissah,Jordan Yamoah Amissah,Sheffield United,GK,RES,21,55,66,2000.0,250000.0,1,2024,Germany
+277904,E. Beach,Eddie Beach,Chelsea,GK,RES,19,54,69,4000.0,220000.0,1,2025,Wales
+271816,A. Brooks,Andre Brooks,Sheffield United,"LW, ST",RES,19,53,69,3000.0,240000.0,1,2024,England
+261988,S. Grehan,Seán Grehan,Crystal Palace,CB,RES,19,50,65,2000.0,100000.0,1,2027,Republic of Ireland
